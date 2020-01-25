@@ -123,3 +123,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+dataset\training_set\cats, dataset\training_set\dogs, dataset\traing_set\koalas, dataset\training_set\ducks
+*.jpg
+*.png
+*.gif
+*.jpeg
+*.webp
+dataset/test_set/dogs/_DS_Store
+dataset/test_set/cats/_DS_Store
+*.zip
